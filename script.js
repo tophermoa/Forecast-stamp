@@ -1,4 +1,4 @@
-var API_KEY = "e95a65dd5abc1d214a23e697493a0712"
+var API_KEY = "your_api_key"
 
 async function getData() {
     try {
@@ -48,5 +48,6 @@ async function getData() {
 
   
 }
+
 
 getData();
